@@ -1,8 +1,8 @@
 # node-usage on nodejitsu
 
-### Sample application capturing process usage information on nodejitsu via [node-usage](https://github.com/arunoda/node-usage)
+### capturing process usage information on Nodejitsu via [node-usage](https://github.com/arunoda/node-usage)
 
-## Deploy on Nodejitsu
+## How to deploy
 
 * download or clone the repository
 * run `jitsu deploy`
