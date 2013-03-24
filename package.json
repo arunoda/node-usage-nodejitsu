@@ -1,0 +1,17 @@
+{
+        "name": "node-usage-test",
+        "version": "0.0.1",
+        "dependencies": {
+                "express": "3.x",
+                "usage": "0.3.x"
+        },
+        "engines": {
+                "node": "0.8.x",
+                "npm": "1.1.x"
+        },
+        "scripts": {
+                "test": "test/index.js",
+                "start": "start.js"
+        },
+        "private": true
+}
